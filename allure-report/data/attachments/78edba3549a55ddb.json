@@ -1,0 +1,8 @@
+{
+  "url": "https://stellarburgers.education-services.ru/api/auth/register",
+  "payload": {
+    "email": "dmitry_baryshev_41_178@yandex.ru",
+    "password": "r8uo072s",
+    "name": "Дмитрий"
+  }
+}
