@@ -1,0 +1,1 @@
+{"success":true,"accessToken":"Bearer eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpZCI6IjY5ZmFkODg3OTg0MjcwMDAxYmU4ZmI1ZiIsImlhdCI6MTc3ODA0NzExMSwiZXhwIjoxNzc4MDQ4MzExfQ.BGI5VR0DQm0jYPHWU2pIZlzzSZQZBEqaw8CVLPqzJe8","refreshToken":"3a6a0ca9ecaf1155c6eb8b707778b9c8eb0b505f3eb6ad01758970df5b3a81fe094ddd389dbcce45","user":{"email":"dmitry_baryshev_41_140@yandex.ru","name":"Дмитрий"}}

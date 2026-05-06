@@ -1,0 +1,6 @@
+{
+  "url": "https://stellarburgers.education-services.ru/api/auth/user",
+  "headers": {
+    "Authorization": "Bearer eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpZCI6IjY5ZmFkODgwOTg0MjcwMDAxYmU4ZmI1NyIsImlhdCI6MTc3ODA0NzEwNCwiZXhwIjoxNzc4MDQ4MzA0fQ.3NWxNMtn5np75l4JnCPr1wmZ1fID02Z4r0s5RYUu3-8"
+  }
+}

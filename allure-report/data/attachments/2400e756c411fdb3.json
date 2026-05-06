@@ -1,0 +1,7 @@
+{
+  "url": "https://stellarburgers.education-services.ru/api/auth/register",
+  "payload": {
+    "password": "tbcrem1m",
+    "name": "Дмитрий"
+  }
+}
