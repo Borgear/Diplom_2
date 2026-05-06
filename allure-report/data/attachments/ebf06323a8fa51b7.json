@@ -1,9 +1,0 @@
-{
-  "url": "https://stellarburgers.education-services.ru/api/orders",
-  "payload": {
-    "ingredients": []
-  },
-  "headers": {
-    "Authorization": "Bearer eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpZCI6IjY5ZjQ1M2RlOTg0MjcwMDAxYmU4ZGJjNCIsImlhdCI6MTc3NzYxOTkzNCwiZXhwIjoxNzc3NjIxMTM0fQ.o8Y7a_dBV8SjT6YBDsZbjFGHAvgUE2Ys3Buc0oDxjFE"
-  }
-}
